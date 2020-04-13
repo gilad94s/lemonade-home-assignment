@@ -1,0 +1,11 @@
+{
+  "wordsSeparator": "[^a-zA-Z]",
+  "expressLoggerFormat": "dev",
+  "WordsDbConnection": {
+    "host": "localhost",
+    "user": "lemonade_user",
+    "password": "lemonade_pass",
+    "database": "lemonade_db"
+  }
+}
+
